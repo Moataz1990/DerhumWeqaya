@@ -153,6 +153,10 @@ transform: scale(1.03);
 /* /soical-media */
 @media (max-width:760px)
 {
+    .footers
+    {
+        margin-top: 12500px;
+    }
     .header {
         background-color: #1E798D;
         
